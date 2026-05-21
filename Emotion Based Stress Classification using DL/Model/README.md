@@ -88,9 +88,9 @@ The confusion matrix below highlights the strong performance in detecting positi
 
 ---
 
-## Testing & Inference Utility (`test.py`)
+## Testing & Inference Utility (`stress_classification_test.py`)
 
-A flexible Python script (`test.py`) has been added to the `Model/` directory to facilitate testing and validation. This script supports two operational modes:
+A flexible Python script (`stress_classification_test.py`) has been added to the `Model/` directory to facilitate testing and validation. This script supports two operational modes:
 
 ### Features
 1. **Full Dataset Evaluation**: Loads the testing dataset partition, calculates classification loss and overall accuracy, generates a comprehensive scikit-learn classification report (precision, recall, f1-score for each emotion), and plots and saves a custom confusion matrix plot locally as `confusion_matrix_test.png`.
@@ -106,13 +106,13 @@ cd "Emotion Based Stress Classification using DL/Model"
 #### 1. Run Evaluation on the Test Dataset
 To evaluate the model's accuracy on the entire testing folder:
 ```bash
-python test.py --weights best_swin_transformer_model.pth --test_dir ../Dataset/test
+python stress_classification_test.py --weights best_swin_transformer_model.pth --test_dir ../Dataset/test
 ```
 
 #### 2. Run Inference on a Single Facial Image
 To predict the emotion and stress state of a single face photo:
 ```bash
-python test.py --weights best_swin_transformer_model.pth --image path/to/your/image.jpg
+python stress_classification_test.py --weights best_swin_transformer_model.pth --image path/to/your/image.jpg
 ```
 
 ---

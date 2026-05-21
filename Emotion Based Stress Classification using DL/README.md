@@ -45,7 +45,7 @@ Emotion Based Stress Classification using DL/
 │   ├── best_swin_transformer_model.engine # Best model compiled to NVIDIA TensorRT engine (FP16)
 │   ├── final_swin_transformer_model.engine # Final model compiled to NVIDIA TensorRT engine (FP16)
 │   ├── class_names.txt                # List of 7 emotion categories
-│   └── test.py                        # Testing and inference utility script
+│   └── stress_classification_test.py  # Testing and inference utility script
 │
 └── requirements.txt                   # List of Python library dependencies
 ```
@@ -88,18 +88,18 @@ The high classification accuracy on positive emotions (`happy` F1: 0.89) and rel
 
 ## Running Testing & Inference
 
-We have provided a ready-to-use testing script `test.py` under the `Model/` directory to evaluate the model on the dataset or run single-image inference:
+We have provided a ready-to-use testing script `stress_classification_test.py` under the `Model/` directory to evaluate the model on the dataset or run single-image inference:
 
 ### 1. Test Dataset Evaluation:
 ```bash
 cd "Emotion Based Stress Classification using DL/Model"
-python test.py --weights best_swin_transformer_model.pth --test_dir ../Dataset/test
+python stress_classification_test.py --weights best_swin_transformer_model.pth --test_dir ../Dataset/test
 ```
 
 ### 2. Single Image Emotion & Stress Prediction:
 ```bash
 cd "Emotion Based Stress Classification using DL/Model"
-python test.py --weights best_swin_transformer_model.pth --image path/to/image.jpg
+python stress_classification_test.py --weights best_swin_transformer_model.pth --image path/to/image.jpg
 ```
 
 For a full technical analysis, log reports, and metric breakdown, please see [Model/README.md](Model/README.md).
