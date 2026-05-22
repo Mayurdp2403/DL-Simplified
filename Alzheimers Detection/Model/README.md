@@ -91,14 +91,7 @@ The model architecture includes:
 
 ![Sample MRI Brain Scan](../Images/image.jpg)
 
-**(Add additional visualization images here if available)**
-
-Examples:
-
-```md
-![Accuracy Plot](../Images/accuracy_plot.png)
-![Loss Curve](../Images/loss_curve.png)
-```
+The MRI dataset was visually inspected to understand class distributions and image patterns across different stages of Alzheimer's disease.
 
 ---
 
@@ -120,9 +113,9 @@ This project demonstrates that deep learning can effectively assist in the early
 With an accuracy of **93.64%**, the model shows promising potential as a clinical decision-support tool.
 
 ---
+### ✒️ Contributor's Signature
 
-### ✒️ Your Signature
-
-**RISHI V**  
+**Rishi V**  
 GitHub: https://github.com/kit29-25bad132  
+LinkedIn: https://www.linkedin.com/in/rishivkit/  
 Contributor - GSSoC 2026
