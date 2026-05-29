@@ -5,9 +5,9 @@
 <br>
 
 <h1 align="center">
-━━━ ❖ ━━━<br>
-𓂀  DEEP LEARNING SIMPLIFIED  𓂀<br>
-━━━ ❖ ━━━
+<br>
+❈ DEEP LEARNING SIMPLIFIED  ❈<br>
+
 </h1>
 
 <p align="center">
@@ -41,17 +41,17 @@
 
 ---
 
-<p align="center">
+<p >
   <i>
     Welcome to <b>Deep Learning Simplified</b> — a curated open-source ecosystem of Deep Learning projects crafted for contributors ranging from beginners to advanced practitioners.
   </i>
 </p>
 
-<p align="center">
+<p >
   Our aim is to simplify Deep Learning through practical implementations, collaborative learning, and hands-on open-source contributions.
 </p>
 
-<p align="center">
+<p >
   Whether you're exploring neural networks for the first time or building advanced AI systems, this repository provides a space to learn, innovate, and contribute. 🚀
 </p>
 <div align="center">
@@ -71,33 +71,25 @@
 </div>
 
 <br>
-<div align="center">
+<div >
 
 ## ❈ Table of Contents ❈
 
 </div>
 
-<p align="center">
-<a href="#-welcome-contributors">Welcome Contributors 🔴</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#structure-of-the-projects-">Project Structure 📝</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#-workflow">Workflow 🧮</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#️open-source-programs">Open Source Programs ❄️</a>
-</p>
+- [Introduction](#deep-learning-simplified)
+- [Welcome Contributors](#welcome-contributors)
+- [Project Structure](#structure-of-the-projects)
+- [Workflow](#workflow)
+- [Open Source Programs](#open-source-programs)
+- [New to Open Source](#new-to-open-source)
+- [Achievements](#achievements)
+- [Project Admin](#project-admin)
+- [Top Contributors](#top-contributors)
+- [Star This Project](#give-this-project-a-star)
+- [Contact](#contact)
 
-<p align="center">
-<a href="#-new-to-open-source-programsevents">New to Open Source 🤔</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#-achievements-of-this-project-repo-">Achievements 🏆</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#project-admin">Project Admin</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#top-contributors">Top Contributors ✨</a>
-</p>
-
-<p align="center">
-<a href="#give-this-project-a-star">Star This Project ⭐</a> &nbsp;&nbsp;✦&nbsp;&nbsp;
-<a href="#contact">Contact 📬</a>
-</p>
-<br>
-
-<div align="center">
+<div>
 
 ## ❈ Welcome Contributors 🔴 ❈
 
@@ -110,13 +102,14 @@ Deep learning is a subset of machine learning, which is essentially a neural net
 <br>
 
 <br>
-<div align="center">
+<div>
 
 ## ❈ Structure of the Projects 📝 ❈
 
 </div>
 This repository consists of various machine learning projects, and all of the projects must follow a certain template. I want the contributors to keep this in mind while contributing to this repository.
 <br>
+
 ✦ **Dataset**  
 This folder stores the dataset used in this project. If the dataset cannot be uploaded to this folder due to its large size, then put a README.md file inside the Dataset folder and include the link to the collected dataset. That'll work!
 
@@ -152,7 +145,7 @@ Project Folder
 Please follow the [Code of Conduct](https://github.com/abhisheks008/DL-Simplified/blob/main/Code_of_conduct.md) and [Contributing Guidelines](https://github.com/abhisheks008/DL-Simplified/blob/main/CONTRIBUTING.md) while contributing in this project repository.
 
 <br>
-<div align="center">
+<div >
 
 ## ❈ Workflow 🧮 ❈
 
@@ -160,21 +153,65 @@ Please follow the [Code of Conduct](https://github.com/abhisheks008/DL-Simplifie
 
 <br>
 
-<div align="center">
+<div >
 
-🔍 Explore Repository ➝ 📖 Read README ➝ 🐛 Check Open Issues ➝ 💬 Comment on Issue 
+```text
 
-➝ ⏳ Wait for Assignment ➝ 🍴 Fork Repository ➝ 💻 Clone Repository ➝ 🛠 Make Changes  ➝
+🔍 Explore Repository
 
-📌 Add • Commit • Push ➝ 🚀 Create Pull Request ➝ 🧑‍💻 Admin Reviews PR ➝ 🎉 PR Gets Merged
+        ↓
+
+📖 Read README
+
+        ↓
+
+🐛 Check Open Issues
+
+        ↓
+
+💬 Comment on Issue
+
+        ↓
+
+⏳ Wait for Assignment
+
+        ↓
+
+🍴 Fork Repository
+
+        ↓
+
+💻 Clone Repository
+
+        ↓
+
+🛠 Make Changes
+
+        ↓
+
+📌 Add • Commit • Push
+
+        ↓
+
+🚀 Create Pull Request
+
+        ↓
+
+🧑‍💻 Admin Reviews PR
+
+        ↓
+
+🎉 PR Gets Merged
+
+```
 
 </div>
 
-<div align="center">
+<div>
 
 <br>
 
-<div align="center">
+<div >
 
 ## ❈ Open Source Programs ❄️ ❈
 
@@ -331,7 +368,7 @@ Please follow the [Code of Conduct](https://github.com/abhisheks008/DL-Simplifie
 </table>
 
 <br>
-<div align="center">
+<div >
 
 ## ❈ New to Open Source Programs/Events 🤔 ❈
 
@@ -344,7 +381,7 @@ Please follow the [Code of Conduct](https://github.com/abhisheks008/DL-Simplifie
 
 <br>
 
-<div align="center">
+<div >
 
 | 🌟 Resource | 🔗 Access |
 |:---|:---:|
@@ -358,7 +395,7 @@ Please follow the [Code of Conduct](https://github.com/abhisheks008/DL-Simplifie
 
 <br><br>
 
-<div align="center">
+<div >
 
 ## ❈ Achievements of this Project Repo 🏆 ❈
 
@@ -366,25 +403,25 @@ Please follow the [Code of Conduct](https://github.com/abhisheks008/DL-Simplifie
 
 <br>
 
-<div align="center">
+<div >
 
-🥇 **Recognized as the "TOP PROJECT ADMIN" for Social Summer of Code, for the year 2022.**  
+**1.🥇 Recognized as the "TOP PROJECT ADMIN" for Social Summer of Code, for the year 2022.**  
 
-<br>
 
-🥇 **Recognized as the "TOP PROJECT ADMIN" for Social Winter of Code, for the year 2023.**  
 
-<br>
+**2.🥇 Recognized as the "TOP PROJECT ADMIN" for Social Winter of Code, for the year 2023.**  
 
-🥇 **Recognized as the "TOP PROJECT ADMIN" for Social Summer of Code, for the year 2023.**  
 
-<br>
 
-🥇 **Recognized as the "TOP PROJECT ADMIN" for GirlScript Summer of Code, for the year 2024.**  
+**3.🥇 Recognized as the "TOP PROJECT ADMIN" for Social Summer of Code, for the year 2023.**  
 
-<br>
 
-🥇 **Recognized as the "TOP PROJECT ADMIN" for GirlScript Summer of Code Extended x HacktoberFest, for the year 2024.**
+
+**4.🥇 Recognized as the "TOP PROJECT ADMIN" for GirlScript Summer of Code, for the year 2024.**  
+
+
+
+**5.🥇 Recognized as the "TOP PROJECT ADMIN" for GirlScript Summer of Code Extended x HacktoberFest, for the year 2024.**
 
 </div>
 
