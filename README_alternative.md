@@ -1,3 +1,5 @@
+> This README was created and updated by Sahil, contributor of GSSOC 2026. Refer: https://github.com/sahil07-rg
+
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Deep Learning Simplified Banner"/>
 </p>
